@@ -32,12 +32,12 @@
         },
         "GROUPS":{
             "description":"Groups where to work",
-            "value":""
+            "value":"",
             "required":false
         },
         "JSON_GROUPS":{
             "description":"Groups where to work for json",
-            "value":""
+            "value":"",
             "required":false
         },
         "THUMB":{
