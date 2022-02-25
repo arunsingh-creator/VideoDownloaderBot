@@ -1,7 +1,7 @@
 {
     "name":"VideoDownloaderBot",
     "description":"Download videos from various websites using this telegram bot",
-    "repository":"https://github.com/DaruaraFriends/VideoDownloaderBot",
+    "repository":"https://github.com/arunsingh/VideoDownloaderBot",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
@@ -40,12 +40,12 @@
         },
         "THUMB":{
             "description":"Thumbnail link. Leave empty for using video thumbnail.",
-            "value":"thumb.jpg",
+            "value":"",
             "required":false
         },
         "NAME":{
             "description":"Name to send",
-            "value":"TheDarkPrince"
+            "value":"Devil Killer"
         }
     }
 }
